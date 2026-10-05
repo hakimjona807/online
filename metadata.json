@@ -1,0 +1,6 @@
+{
+  "name": "TestHub Pro — Professional Onlayn Test Platformasi",
+  "description": "Maktablar, o‘quv markazlari va o‘qituvchilar uchun xavfsiz, Telegram bot bilan integratsiyalangan, zamonaviy onlayn test platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

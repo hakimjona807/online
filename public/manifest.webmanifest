@@ -1,0 +1,20 @@
+{
+  "id": "/",
+  "name": "TestHub Pro — Onlayn Test Platformasi",
+  "short_name": "TestHub",
+  "description": "Professional onlayn test topshirish va baholash tizimi",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0f172a",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
